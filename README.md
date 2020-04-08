@@ -5,4 +5,4 @@ Features include:
 - single date selection;
 - single month selection.
 
-![Alt text](/CalendarSwiftUI/Images/CalendarHome.png)
+<img src="/CalendarSwiftUI/Images/CalendarHome.png" width="200" height="400" />
