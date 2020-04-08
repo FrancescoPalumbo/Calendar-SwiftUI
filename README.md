@@ -11,9 +11,17 @@ Features include:
 - single date selection;
 - single month selection.
 
+This results in the following:
+
 <img src="/CalendarSwiftUI/Images/Video.gif" width="200" height="400" />
 
 ## Requirement 
 - iOS 13+ / macOS 10.15+
 - Xcode 11+
 - Swift 5+
+
+# Installation
+Integrate CalendarSwiftUI into your project by including the files in the "Calendar" group.
+
+# License
+CalendarSwiftUI is available under the MIT license. See the LICENSE file for more info.
