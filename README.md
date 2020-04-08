@@ -13,7 +13,7 @@
 
 This results in the following:
 
-<img src="/CalendarSwiftUI/Images/Video.gif" width="200" height="400" />
+<img src="/CalendarSwiftUI/Images/Calendar.PNG" width="200" height="400" /> <img src="/CalendarSwiftUI/Images/Calendar2.PNG" width="200" height="400" /> <img src="/CalendarSwiftUI/Images/Video.gif" width="200" height="400" />
 
 ## Requirement 
 - [x] iOS 13+ / macOS 10.15+
