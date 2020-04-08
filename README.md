@@ -8,17 +8,17 @@
 **CalendarSwiftUI** is a calendar for iOS. 
 
 ## Features
-- [x] single date selection;
-- [x] single month selection.
+- Single date selection;
+- Single month selection.
 
 This results in the following:
 
 <img src="/CalendarSwiftUI/Images/Calendar.PNG" width="200" height="400" /> <img src="/CalendarSwiftUI/Images/Calendar2.PNG" width="200" height="400" /> <img src="/CalendarSwiftUI/Images/Video.gif" width="200" height="400" />
 
 ## Requirement 
-- [x] iOS 13+ / macOS 10.15+
-- [x] Xcode 11+
-- [x] Swift 5+
+- iOS 13+ / macOS 10.15+
+- Xcode 11+
+- Swift 5+
 
 ## Installation
 Integrate CalendarSwiftUI into your project by including the files in the "Calendar" group.
